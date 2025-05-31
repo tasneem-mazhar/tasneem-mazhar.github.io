@@ -16,7 +16,7 @@ Education
   * Graduated *Summa Cum Laude*, CGPA 3.93/4.00  
 * **Edexcel A Levels**, Academia, 2019  
   * Subjects: Chemistry, Biology, Physics, Mathematics  
-* **Edexcel O Levels**, Academia, 2018  
+* **Edexcel O Levels**, Academia, 2017  
   * 6 A*s, 2 As
 
 Work Experience
