@@ -1,152 +1,198 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Tasneem Mazhar",
+    "email": "ext.tasneem.mazhar@bracu.ac.bd",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://tasneem-mazhar.github.io",
+    "summary": "Adjunct Lecturer at BRAC University and MSc student in Applied Mathematics and Computational Sciences at North South University. Researcher in semiconductors, phase change memory, and computational device modeling.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Dhaka",
+      "countryCode": "BD",
+      "region": "Dhaka Division"
     },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "username": "Tasneem Mazhar",
+        "url": "https://scholar.google.com/citations?user=WnnqsTMAAAAJ&hl=en"
       },
       {
         "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "username": "0009-0004-1694-2753",
+        "url": "https://orcid.org/0009-0004-1694-2753"
       },
       {
-        "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "network": "LinkedIn",
+        "username": "tasneem-mazhar-82a1671b1",
+        "url": "https://www.linkedin.com/in/tasneem-mazhar-82a1671b1/"
+      },
+      {
+        "network": "ResearchGate",
+        "username": "Tasneem-Mazhar",
+        "url": "https://www.researchgate.net/profile/Tasneem-Mazhar"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "position": "Adjunct Lecturer",
+      "institution": "BRAC University",
+      "startDate": "2024-05",
+      "summary": "Teaching CSE250, CSE251, CSE350; developing course content and lab assessments."
+    },
+    {
+      "position": "Lab Coordinator",
+      "institution": "BRAC University",
+      "startDate": "2025-02",
+      "summary": "Coordinating CSE350L lab curriculum for OBE and BAETE standards."
+    },
+    {
+      "position": "Research Assistant",
+      "institution": "North South University",
+      "startDate": "2023-12",
+      "endDate": "2024-12",
+      "summary": "Performed DFT/MD simulations and FEM modeling of PCM nanodevices."
+    },
+    {
+      "position": "Lab Instructor",
+      "institution": "North South University",
+      "startDate": "2024-02",
+      "endDate": "2024-06",
+      "summary": "Conducted labs in Circuits I, Digital Logic, and Control Engineering."
+    },
+    {
+      "position": "Undergraduate Teaching Assistant",
+      "institution": "North South University",
+      "startDate": "2022-10",
+      "endDate": "2024-01",
+      "summary": "Assisted in Electromagnetics, Semiconductor Devices, and Engineering Economics."
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
+      "institution": "North South University",
+      "area": "Applied Mathematics and Computational Sciences",
+      "studyType": "M.Sc.",
+      "startDate": "2024",
+      "endDate": "",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "North South University",
+      "area": "Electrical and Electronic Engineering",
+      "studyType": "B.Sc.",
+      "startDate": "",
+      "endDate": "2023",
+      "gpa": "3.93/4.00",
+      "courses": []
+    },
+    {
+      "institution": "Academia",
+      "area": "A Levels",
+      "studyType": "Edexcel",
+      "startDate": "",
+      "endDate": "2019",
+      "gpa": null,
+      "courses": ["Chemistry", "Biology", "Physics", "Mathematics"]
+    },
+    {
+      "institution": "Academia",
+      "area": "O Levels",
+      "studyType": "Edexcel",
       "startDate": "",
       "endDate": "2018",
       "gpa": null,
       "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
     }
   ],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Simulation Tools",
+      "keywords": ["Quantum ESPRESSO", "COMSOL", "CST", "Multisim", "LTSpice", "Proteus", "Logisim"]
+    },
+    {
+      "name": "Programming",
+      "keywords": ["Python", "C", "Linux Scripting"]
+    },
+    {
+      "name": "Data Analysis",
+      "keywords": ["MATLAB", "OriginPro", "GNUPlot", "Excel"]
+    },
+    {
+      "name": "Design and Documentation",
+      "keywords": ["AutoCAD", "SketchUp", "LaTeX", "MS PowerPoint"]
+    },
+    {
+      "name": "Soft Skills",
+      "keywords": ["Technical Writing", "Research", "Time Management", "Problem Solving"]
+    }
+  ],
   "languages": [],
-  "interests": [],
+  "interests": [
+    {
+      "name": "Semiconductors and Nanoelectronics"
+    },
+    {
+      "name": "First-Principles Calculations (DFT/MD)"
+    },
+    {
+      "name": "Phase Change Memory and Emerging Devices"
+    },
+    {
+      "name": "FEM and Device Simulation"
+    }
+  ],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Effects of Cell Aspect Ratio and Applied Pulse Parameters on Resistance Drift in Ge2Sb2Te5 PCM Nanodevices",
+      "publisher": "2024 IEEE Nanotechnology Materials and Devices Conference (NMDC)",
+      "releaseDate": "2024-10-01",
+      "website": "https://doi.org/10.1109/NMDC58214.2024.10894629",
+      "summary": "This paper explores how cell geometry and pulse parameters influence resistance drift in PCM nanodevices using GST-225."
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
+  "presentations": [],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
+      "course": "CSE250, CSE251, CSE350",
+      "institution": "BRAC University, CSE Department",
+      "date": "2024-05-01",
+      "role": "Adjunct Lecturer",
       "description": ""
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
+      "course": "Circuits I, Digital Logic, Control Engineering Labs",
+      "institution": "North South University",
+      "date": "2024-02-01",
+      "role": "Lab Instructor",
+      "description": ""
+    },
+    {
+      "course": "Electromagnetic Fields, Semiconductor Devices, Engineering Economics",
+      "institution": "North South University",
+      "date": "2022-10-01",
+      "role": "Undergraduate Teaching Assistant",
       "description": ""
     }
   ],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
+      "name": "Ab-initio Simulation of GST Phases",
       "category": "portfolio",
       "date": "",
       "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "description": "DFT and MATLAB analysis of phase states of GST materials."
+    },
+    {
+      "name": "Synchronized Memory Counter",
+      "category": "portfolio",
+      "date": "",
+      "url": "",
+      "description": "Built using JK Flip-Flops and 555 Timer for sequential logic."
     }
   ]
 }
