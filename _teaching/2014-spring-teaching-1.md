@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2024-spring-bracu-adjunct
 venue: "BRAC University, Department of Computer Science and Engineering"
-date: 
+date: 2024-05-27
 location: "Dhaka, Bangladesh"
 ---
 
