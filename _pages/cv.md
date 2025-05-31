@@ -55,8 +55,6 @@ Publications
   {% include archive-single-cv.html %}
 {% endfor %}</ul>
 
-
-
 Projects
 ======
 * **Ab-initio Simulation of GST Phases** – DFT simulations using Quantum ESPRESSO and MATLAB  
