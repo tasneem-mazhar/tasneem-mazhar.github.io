@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Effects of Cell Aspect Ratio and Applied Pulse Parameters on Resistance Drift in Ge2Sb2Te5 PCM Nanodevices"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2024-nmdc-pcm-resistance-drift
+excerpt: 'This paper investigates how variations in cell geometry and electrical pulse characteristics affect resistance drift in phase change memory (PCM) nanodevices using Ge2Sb2Te5. Simulation results provide insights into improving device reliability and performance.'
+date: 2024-10-01
+venue: '2024 IEEE Nanotechnology Materials and Devices Conference (NMDC)'
+paperurl: 'https://ieeexplore.ieee.org/document/10894629'
+bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib' # Replace with actual hosted .bib file URL
+citation: 'Tasneem Mazhar, Sadid Muneer, Nafisa Noor. (2024). "Effects of Cell Aspect Ratio and Applied Pulse Parameters on Resistance Drift in Ge2Sb2Te5 PCM Nanodevices." <i>2024 IEEE Nanotechnology Materials and Devices Conference (NMDC)</i>, pp. 157-161.'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+In this paper, we studied the resistance drift behavior of phase change memory (PCM) nanodevices made of Ge2Sb2Te5 (GST-225). By varying the cell’s aspect ratio and the parameters of the applied electrical pulses, we observed distinct changes in resistance evolution. Using finite element simulations, we identified how these factors impact thermal distribution, phase stability, and ultimately device reliability. Our findings offer design and operational guidelines to enhance PCM performance and are expected to contribute toward more robust non-volatile memory solutions.
