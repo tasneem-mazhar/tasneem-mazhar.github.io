@@ -1,20 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Lab Instructor – NSU"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Lab Instructor"
+permalink: /teaching/2024-spring-nsu-lab
+venue: "North South University, Department of Electrical and Computer Engineering"
+date: 
+location: "Dhaka, Bangladesh"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+As a Lab Instructor at North South University, I conducted lab sessions for undergraduate  courses, assisting students in applying theoretical concepts to practical experiments.
 
-Heading 1
-======
+---
 
-Heading 2
-======
-
-Heading 3
-======
