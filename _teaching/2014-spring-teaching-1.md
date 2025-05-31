@@ -1,20 +1,16 @@
 ---
-title: "Teaching experience 1"
+title: "Adjunct Lecturer — BRAC University"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2024-spring-bracu-adjunct
+venue: "BRAC University, Department of Computer Science and Engineering"
+date: 
+location: "Dhaka, Bangladesh"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+As an Adjunct Lecturer at BRAC University, I am currently teaching core undergraduate courses in the Computer Science and Engineering department. These include **CSE250 **, **CSE251 **, and **CSE350 **.
 
-Heading 1
-======
 
-Heading 2
-======
 
-Heading 3
-======
+I actively contribute to maintaining academic rigor and fostering a hands-on learning environment that bridges theory with practical implementation.
+
