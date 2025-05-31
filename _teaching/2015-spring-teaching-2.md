@@ -4,7 +4,7 @@ collection: teaching
 type: "Lab Instructor"
 permalink: /teaching/2024-spring-nsu-lab
 venue: "North South University, Department of Electrical and Computer Engineering"
-date: 
+date: 2024-02-01
 location: "Dhaka, Bangladesh"
 ---
 
