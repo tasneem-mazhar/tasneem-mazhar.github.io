@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# About me
+
 I’m currently working as an Adjunct Lecturer at BRAC University in the Department of Computer Science and Engineering. 
 
 Alongside teaching, I’m pursuing a Master’s in Applied Mathematics and Computational Sciences at North South University to further strengthen my understanding of computational methods in engineering and science.
