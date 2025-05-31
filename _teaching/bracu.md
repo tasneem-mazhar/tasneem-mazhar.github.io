@@ -8,7 +8,7 @@ date: 2024-05-27
 location: "Dhaka, Bangladesh"
 ---
 
-As an Adjunct Lecturer at BRAC University, I am currently teaching core undergraduate courses in the Computer Science and Engineering department. These include **CSE250 **, **CSE251 **, and **CSE350 **.
+As an Adjunct Lecturer at BRAC University, I am currently teaching core undergraduate courses in the Computer Science and Engineering department. These include **CSE250**, **CSE251**, and **CSE350**.
 
 
 
