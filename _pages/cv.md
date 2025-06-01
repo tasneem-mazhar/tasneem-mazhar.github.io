@@ -13,9 +13,10 @@ Education
 ======
 * **M.Sc. in Applied Mathematics and Computational Sciences**, North South University (Ongoing)
 * **B.Sc. in Electrical and Electronic Engineering**, North South University, 2023  
-  * Graduated *Summa Cum Laude*, CGPA 3.93/4.00  
+  * Graduated Summa Cum Laude, CGPA 3.93/4.00 — Ranked 1st in the Department of Electrical and Computer Engineering (Class of 2023)
 * **Edexcel A Levels**, Academia, 2019  
-  * Subjects: Chemistry, Biology, Physics, Mathematics  
+  * Subjects: Chemistry, Biology, Physics, Mathematics
+  * 2 A*s, 2 As  
 * **Edexcel O Levels**, Academia, 2017  
   * 6 A*s, 2 As
 
