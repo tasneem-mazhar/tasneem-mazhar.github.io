@@ -16,7 +16,7 @@ The poster was selected among the **Top 15 posters in the Semiconductor category
 - Recognized for outstanding contribution to semiconductor research in Bangladesh.  
 
 ### Poster
-![Poster Image](/images/talks/2025-bear-nss-poster.jpg)
+![Poster Image](/images/image.jpg)
 
 ### Certificate
-![Certificate](/images/talks/2025-bear-nss-certificate.jpg)
+![Certificate](/images/cert.jpg)
