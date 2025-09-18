@@ -13,10 +13,9 @@ The poster was selected among the **Top 15 posters in the Semiconductor category
 
 ### Highlights
 - Discussed methods to optimize GST-225 devices through structural and electrical pulse engineering.  
-- Recognized for outstanding contribution to semiconductor research in Bangladesh.  
 
-### Poster
+
 ![Poster Image](/images/image.jpg)
 
-### Certificate
+
 ![Certificate](/images/cert.jpg)
