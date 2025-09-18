@@ -18,4 +18,4 @@ The poster was selected among the **Top 15 posters in the Semiconductor category
 ![Poster Image](/images/image.jpg)
 
 
-![Certificate](/images/cert.jpg)
+![Certificate](/images/cert.png)
