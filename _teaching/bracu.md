@@ -1,5 +1,5 @@
 ---
-title: "Adjunct Lecturer — BRAC University"
+title: "Lecturer — BRAC University"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2024-spring-bracu-adjunct
@@ -8,7 +8,7 @@ date: 2024-05-27
 location: "Dhaka, Bangladesh"
 ---
 
-As an Adjunct Lecturer at BRAC University, I am currently teaching core undergraduate courses in the Computer Science and Engineering department. These include:
+As a Lecturer at BRAC University, I am currently teaching core undergraduate courses in the Computer Science and Engineering department. These include:
 
 ### CSE250: Circuits and Electronics
 
