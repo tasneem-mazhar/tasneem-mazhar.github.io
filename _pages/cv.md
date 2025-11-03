@@ -22,7 +22,7 @@ Education
 
 Work Experience
 ======
-* **Adjunct Lecturer** — *BRAC University, Department of CSE*  
+* **Lecturer** — *BRAC University, Department of CSE*  
   *May 2024 – Present*  
   Teaching CSE250, CSE251, and CSE350 courses; preparing materials and assessments.
 
