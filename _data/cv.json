@@ -1,10 +1,10 @@
 {
   "basics": {
     "name": "Tasneem Mazhar",
-    "email": "ext.tasneem.mazhar@bracu.ac.bd",
+    "email": "tasneem.mazhar@bracu.ac.bd",
     "phone": "",
     "website": "https://tasneem-mazhar.github.io",
-    "summary": "Adjunct Lecturer at BRAC University and MSc student in Applied Mathematics and Computational Sciences at North South University. Researcher in semiconductors, phase change memory, and computational device modeling.",
+    "summary": "Lecturer at BRAC University and MSc student in Applied Mathematics and Computational Sciences at North South University. Researcher in semiconductors, phase change memory, and computational device modeling.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -37,9 +37,16 @@
   },
   "work": [
     {
+      "position": "Lecturer",
+      "institution": "BRAC University",
+      "startDate": "2025-09-21",
+      "summary": "Teaching CSE250, CSE251, CSE350; developing course content and lab assessments."
+    },
+    {
       "position": "Adjunct Lecturer",
       "institution": "BRAC University",
       "startDate": "2024-05",
+      "endDate": "2025-09-20",
       "summary": "Teaching CSE250, CSE251, CSE350; developing course content and lab assessments."
     },
     {
@@ -71,15 +78,16 @@
     }
   ],
   "education": [
-    {
-      "institution": "North South University",
-      "area": "Applied Mathematics and Computational Sciences",
-      "studyType": "M.Sc.",
-      "startDate": "2024",
-      "endDate": "",
-      "gpa": null,
-      "courses": []
-    },
+ // {
+//   "institution": "North South University",
+//   "area": "Applied Mathematics and Computational Sciences",
+//   "studyType": "M.Sc.",
+//   "startDate": "2024",
+//   "endDate": "",
+//   "gpa": null,
+//   "courses": []
+// },
+
     {
       "institution": "North South University",
       "area": "Electrical and Electronic Engineering",
